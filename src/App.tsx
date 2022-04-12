@@ -36,7 +36,7 @@ export function App(){
   ]
 
   useEffect(() => {
-    fetch('http://demo8580067.mockable.io/frontent-teste')
+    fetch('https://demo8580067.mockable.io/frontent-teste')
       .then(response => response.json())
       .then(data => {
         setAllProducts(data.products)
