@@ -4,7 +4,7 @@ do topo da aplicação. E também podendo ordenar através do select por preço 
 O style foi criado com o [SCSS](https://sass-lang.com/) e usando a metodologia [BEM](http://getbem.com/introduction/).
 
 ## Link do projeto :paperclip:
-https://desafio-eromzbaso-lucastelesx.vercel.app
+https://desafio-uplexis-rust.vercel.app/
 
 ## Rodando o projeto :runner:
 Após clonar rodar os seguintes comandos para instalar e fazer a build da aplicação.
